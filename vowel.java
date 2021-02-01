@@ -1,4 +1,4 @@
-class Char
+class vowel
 {
 	public static void main(String[ ] arg)
 	{
